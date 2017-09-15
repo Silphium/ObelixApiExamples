@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{70d08f78-fb2e-4c91-8795-935901c1de1a}</ProjectGuid>
     <ProjectHome />
-    <StartupFile />
+    <StartupFile>StartPoint.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -22,6 +22,12 @@
   </PropertyGroup>
   <ItemGroup>
     <InterpreterReference Include="{2af0f10d-7135-4994-9156-5d01c9c11b7e}\2.7" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Menhir.py" />
+    <Compile Include="ObelixServer.py" />
+    <Compile Include="ObelixTestSpace.py" />
+    <Compile Include="StartPoint.py" />
   </ItemGroup>
   <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />

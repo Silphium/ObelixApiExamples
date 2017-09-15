@@ -16,8 +16,10 @@ class ObelixTestSpace(object):
             userMachine - the name of the machine the user is using
         '''
         ConnectUri = self.CreateConnectUri(userName, userMachine)
+  
         try:
             r = requests.get(ConnectUri)
+           
         except Exception as error: 
             print error
 
@@ -31,6 +33,8 @@ class ObelixTestSpace(object):
             print error
 
     def GetScreenShot(self):
+        ''' Returns a jpeg screenshot from the remote test device
+        '''
         url = ("http://%s/TestSpace/%d/ScreenShot/"%(self.ServerIp,self.Slot))
         try:
             r = requests.get(url)
