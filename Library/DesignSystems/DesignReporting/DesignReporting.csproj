@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Dowding\Response\" />
+    <Folder Include="Missives\Error\" />
+    <Folder Include="Synthient\" />
+    <Folder Include="Notes\Error\" />
+  </ItemGroup>
+</Project>

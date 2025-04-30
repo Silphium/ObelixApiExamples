@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE37D90-1FDB-4A2E-874E-631E26DC3874}|..\\PrincipalAffirmation\\PrincipalAffirmation.csproj|c:\\foundry\\library\\designprincipals\\principalaffirmation\\documentcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|c:\\foundry\\library\\designprincipals\\designprincipals\\designprincipals\\idesignbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|solutionrelative:designprincipals\\idesignbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|c:\\foundry\\library\\designprincipals\\designprincipals\\designprincipals\\designdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|solutionrelative:designprincipals\\designdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130B384-0BF4-CECF-0552-3578BFFB1C85}|..\\..\\DesignSystems\\DesignReporting\\DesignReporting.csproj|c:\\foundry\\library\\designsystems\\designreporting\\designreporting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|c:\\foundry\\library\\designprincipals\\designprincipals\\designprincipals\\designprincipals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|solutionrelative:designprincipals\\designprincipals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|c:\\foundry\\library\\designprincipals\\designprincipals\\designprincipals\\documentmarginbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|solutionrelative:designprincipals\\documentmarginbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|c:\\foundry\\library\\designprincipals\\designprincipals\\designprincipals\\layers\\griddesignlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DFB2C6-8C90-4416-886E-27F60568840F}|DesignPrincipals\\DesignPrincipals.csproj|solutionrelative:designprincipals\\layers\\griddesignlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDesignBox.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\IDesignBox.cs",
+              "RelativeDocumentMoniker": "DesignPrincipals\\IDesignBox.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\IDesignBox.cs",
+              "RelativeToolTip": "DesignPrincipals\\IDesignBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:27:10.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignPrincipals.csproj",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals.csproj",
+              "RelativeDocumentMoniker": "DesignPrincipals\\DesignPrincipals.csproj",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals.csproj",
+              "RelativeToolTip": "DesignPrincipals\\DesignPrincipals.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T11:59:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesignReporting.csproj",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\DesignReporting.csproj",
+              "RelativeDocumentMoniker": "..\\..\\DesignSystems\\DesignReporting\\DesignReporting.csproj",
+              "ToolTip": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\DesignReporting.csproj",
+              "RelativeToolTip": "..\\..\\DesignSystems\\DesignReporting\\DesignReporting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T11:46:22.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentCreation.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\PrincipalAffirmation\\DocumentCreation.cs",
+              "RelativeDocumentMoniker": "..\\PrincipalAffirmation\\DocumentCreation.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\PrincipalAffirmation\\DocumentCreation.cs",
+              "RelativeToolTip": "..\\PrincipalAffirmation\\DocumentCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:50:30.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridDesignLayer.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\Layers\\GridDesignLayer.cs",
+              "RelativeDocumentMoniker": "DesignPrincipals\\Layers\\GridDesignLayer.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\Layers\\GridDesignLayer.cs",
+              "RelativeToolTip": "DesignPrincipals\\Layers\\GridDesignLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:16:12.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesignDocument.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\DesignDocument.cs",
+              "RelativeDocumentMoniker": "DesignPrincipals\\DesignDocument.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\DesignDocument.cs",
+              "RelativeToolTip": "DesignPrincipals\\DesignDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:21:38.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentMarginBuilder.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\DocumentMarginBuilder.cs",
+              "RelativeDocumentMoniker": "DesignPrincipals\\DocumentMarginBuilder.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrincipals\\DesignPrincipals\\DocumentMarginBuilder.cs",
+              "RelativeToolTip": "DesignPrincipals\\DocumentMarginBuilder.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:19:28.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

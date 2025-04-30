@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Foundry\\Library\\DesignSystems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3B2B6D-8080-44E2-B70A-B291E8633252}|DesignReporting\\DesignReporting.csproj|c:\\foundry\\library\\designsystems\\designreporting\\designreporting.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8F3B2B6D-8080-44E2-B70A-B291E8633252}|DesignReporting\\DesignReporting.csproj|solutionrelative:designreporting\\designreporting.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesignReporting",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\DesignReporting.csproj",
+              "RelativeDocumentMoniker": "DesignReporting\\DesignReporting.csproj",
+              "ToolTip": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\DesignReporting.csproj",
+              "RelativeToolTip": "DesignReporting\\DesignReporting.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T10:59:22.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

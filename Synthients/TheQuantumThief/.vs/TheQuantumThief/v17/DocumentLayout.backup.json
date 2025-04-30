@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Foundry\\Synthients\\TheQuantumThief\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\knot\\frame\\framehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\knot\\spiderknot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\knot\\frame\\framebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\knot\\frame\\radialframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\fluentsilk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\knot\\ispiderknot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\threads\\guyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\threads\\iguyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\threads\\iguylinevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6942BAF-3455-4F4B-A1B6-9DE65530CBBA}|..\\..\\Library\\FluentSilk\\FluentSilk.csproj|c:\\foundry\\library\\fluentsilk\\fluentweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDE23A4-8A63-4966-9452-C7A87B472A41}|TheQuantumThief\\TheQuantumThief.csproj|c:\\foundry\\synthients\\thequantumthief\\thequantumthief\\penhaligan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDE23A4-8A63-4966-9452-C7A87B472A41}|TheQuantumThief\\TheQuantumThief.csproj|solutionrelative:thequantumthief\\penhaligan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB95FBD-000E-C503-9FDC-33BD04CADA45}|..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingNetwork.csproj|c:\\foundry\\library\\dowdingnetwork\\dowdingnetwork\\apexlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB95FBD-000E-C503-9FDC-33BD04CADA45}|..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingNetwork.csproj|c:\\foundry\\library\\dowdingnetwork\\dowdingnetwork\\radar\\apexendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB95FBD-000E-C503-9FDC-33BD04CADA45}|..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingNetwork.csproj|c:\\foundry\\library\\dowdingnetwork\\dowdingnetwork\\request\\dowdingrequestchrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB95FBD-000E-C503-9FDC-33BD04CADA45}|..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingNetwork.csproj|c:\\foundry\\library\\dowdingnetwork\\dowdingnetwork\\request\\dowdingparameterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB95FBD-000E-C503-9FDC-33BD04CADA45}|..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingNetwork.csproj|c:\\foundry\\library\\dowdingnetwork\\dowdingnetwork\\request\\requestprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB95FBD-000E-C503-9FDC-33BD04CADA45}|..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingNetwork.csproj|c:\\foundry\\library\\dowdingnetwork\\dowdingnetwork\\request\\dowdingcontentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB95FBD-000E-C503-9FDC-33BD04CADA45}|..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingNetwork.csproj|c:\\foundry\\library\\dowdingnetwork\\dowdingnetwork\\dowdingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CA8A0B-6841-4F69-B005-F20EE0D086EE}|..\\ApexBattle\\ApexBattle.csproj|c:\\foundry\\synthients\\apexbattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB95FBD-000E-C503-9FDC-33BD04CADA45}|..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingNetwork.csproj|c:\\foundry\\library\\dowdingnetwork\\dowdingnetwork\\apexlistenercontextextender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFE6CA4-0E56-950A-0227-BC612A8A5204}|..\\..\\Library\\DesignSystems\\DesignReporting\\DesignReporting.csproj|c:\\foundry\\library\\designsystems\\designreporting\\dowding\\request\\iapexparameterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFE6CA4-0E56-950A-0227-BC612A8A5204}|..\\..\\Library\\DesignSystems\\DesignReporting\\DesignReporting.csproj|c:\\foundry\\library\\designsystems\\designreporting\\dowding\\request\\iapexmissiverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFE6CA4-0E56-950A-0227-BC612A8A5204}|..\\..\\Library\\DesignSystems\\DesignReporting\\DesignReporting.csproj|c:\\foundry\\library\\designsystems\\designreporting\\dowding\\request\\iapexcontentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CA8A0B-6841-4F69-B005-F20EE0D086EE}|..\\ApexBattle\\ApexBattle.csproj|c:\\foundry\\synthients\\apexbattle\\request\\pennykindlejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFE6CA4-0E56-950A-0227-BC612A8A5204}|..\\..\\Library\\DesignSystems\\DesignReporting\\DesignReporting.csproj|c:\\foundry\\library\\designsystems\\designreporting\\synthient\\isynthient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrameBody.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\Knot\\Frame\\FrameBody.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\Knot\\Frame\\FrameBody.cs",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\Knot\\Frame\\FrameBody.cs",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\Knot\\Frame\\FrameBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:59:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpiderKnot.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\Knot\\SpiderKnot.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\Knot\\SpiderKnot.cs",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\Knot\\SpiderKnot.cs",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\Knot\\SpiderKnot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:58:46.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrameHead.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\Knot\\Frame\\FrameHead.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\Knot\\Frame\\FrameHead.cs",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\Knot\\Frame\\FrameHead.cs",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\Knot\\Frame\\FrameHead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:22:16.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuyLine.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\Threads\\GuyLine.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\Threads\\GuyLine.cs",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\Threads\\GuyLine.cs",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\Threads\\GuyLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:04:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGuyLineValue.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\Threads\\IGuyLineValue.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\Threads\\IGuyLineValue.cs",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\Threads\\IGuyLineValue.cs",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\Threads\\IGuyLineValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:01:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FluentSilk",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\FluentSilk.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\FluentSilk.csproj",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\FluentSilk.csproj",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\FluentSilk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T11:59:34.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGuyLine.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\Threads\\IGuyLine.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\Threads\\IGuyLine.cs",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\Threads\\IGuyLine.cs",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\Threads\\IGuyLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:55:18.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RadialFrame.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\Knot\\Frame\\RadialFrame.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\Knot\\Frame\\RadialFrame.cs",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\Knot\\Frame\\RadialFrame.cs",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\Knot\\Frame\\RadialFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:21:31.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISpiderKnot.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\Knot\\ISpiderKnot.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\Knot\\ISpiderKnot.cs",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\Knot\\ISpiderKnot.cs",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\Knot\\ISpiderKnot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:55:18.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FluentWeb.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\FluentSilk\\FluentWeb.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\FluentSilk\\FluentWeb.cs",
+              "ToolTip": "C:\\Foundry\\Library\\FluentSilk\\FluentWeb.cs",
+              "RelativeToolTip": "..\\..\\Library\\FluentSilk\\FluentWeb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:00:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApexEndPoint.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Radar\\ApexEndPoint.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Radar\\ApexEndPoint.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Radar\\ApexEndPoint.cs",
+              "RelativeToolTip": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Radar\\ApexEndPoint.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAjwEQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:06:46.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DowdingRequestChrome.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingRequestChrome.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingRequestChrome.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingRequestChrome.cs",
+              "RelativeToolTip": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingRequestChrome.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:19:38.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DowdingContentRequest.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingContentRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingContentRequest.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingContentRequest.cs",
+              "RelativeToolTip": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingContentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:51:52.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DowdingParameterRequest.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingParameterRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingParameterRequest.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingParameterRequest.cs",
+              "RelativeToolTip": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\DowdingParameterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:15:25.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RequestPrinter.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\RequestPrinter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\RequestPrinter.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\RequestPrinter.cs",
+              "RelativeToolTip": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\Request\\RequestPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:54:44.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApexListener.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\ApexListener.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\ApexListener.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\ApexListener.cs",
+              "RelativeToolTip": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\ApexListener.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAIAywF0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:34:59.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Foundry\\Synthients\\ApexBattle\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApexBattle\\Program.cs",
+              "ToolTip": "C:\\Foundry\\Synthients\\ApexBattle\\Program.cs",
+              "RelativeToolTip": "..\\ApexBattle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:38:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Penhaligan.cs",
+              "DocumentMoniker": "C:\\Foundry\\Synthients\\TheQuantumThief\\TheQuantumThief\\Penhaligan.cs",
+              "RelativeDocumentMoniker": "TheQuantumThief\\Penhaligan.cs",
+              "ToolTip": "C:\\Foundry\\Synthients\\TheQuantumThief\\TheQuantumThief\\Penhaligan.cs",
+              "RelativeToolTip": "TheQuantumThief\\Penhaligan.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAWwFEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:33:13.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DowdingCommand.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingCommand.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingCommand.cs",
+              "RelativeToolTip": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\DowdingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:36:32.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApexListenerContextExtender.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\ApexListenerContextExtender.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\ApexListenerContextExtender.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DowdingNetwork\\DowdingNetwork\\ApexListenerContextExtender.cs",
+              "RelativeToolTip": "..\\..\\Library\\DowdingNetwork\\DowdingNetwork\\ApexListenerContextExtender.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:43:33.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IApexParameterRequest.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexParameterRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexParameterRequest.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexParameterRequest.cs",
+              "RelativeToolTip": "..\\..\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexParameterRequest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:43:57.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IApexMissiveRequest.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexMissiveRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexMissiveRequest.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexMissiveRequest.cs",
+              "RelativeToolTip": "..\\..\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexMissiveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:04:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IApexContentRequest.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexContentRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexContentRequest.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexContentRequest.cs",
+              "RelativeToolTip": "..\\..\\Library\\DesignSystems\\DesignReporting\\Dowding\\Request\\IApexContentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:32:33.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PennyKindleJob.cs",
+              "DocumentMoniker": "C:\\Foundry\\Synthients\\ApexBattle\\Request\\PennyKindleJob.cs",
+              "RelativeDocumentMoniker": "..\\ApexBattle\\Request\\PennyKindleJob.cs",
+              "ToolTip": "C:\\Foundry\\Synthients\\ApexBattle\\Request\\PennyKindleJob.cs",
+              "RelativeToolTip": "..\\ApexBattle\\Request\\PennyKindleJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:26:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISynthient.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\Synthient\\ISynthient.cs",
+              "RelativeDocumentMoniker": "..\\..\\Library\\DesignSystems\\DesignReporting\\Synthient\\ISynthient.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignSystems\\DesignReporting\\Synthient\\ISynthient.cs",
+              "RelativeToolTip": "..\\..\\Library\\DesignSystems\\DesignReporting\\Synthient\\ISynthient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:32:38.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

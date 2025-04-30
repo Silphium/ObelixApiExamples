@@ -1,0 +1,7 @@
+C:\Foundry\Library\DesignSystems\DesignReporting.Quality\bin\Debug\net8.0-windows\.msCoverageSourceRootsMapping_DesignReporting.Quality
+C:\Foundry\Library\DesignSystems\DesignReporting.Quality\bin\Debug\net8.0-windows\CoverletSourceRootsMapping_DesignReporting.Quality
+C:\Foundry\Library\DesignSystems\DesignReporting.Quality\obj\Debug\net8.0-windows\DesignReporting.Quality.csproj.AssemblyReference.cache
+C:\Foundry\Library\DesignSystems\DesignReporting.Quality\obj\Debug\net8.0-windows\DesignReporting.Quality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Foundry\Library\DesignSystems\DesignReporting.Quality\obj\Debug\net8.0-windows\DesignReporting.Quality.AssemblyInfoInputs.cache
+C:\Foundry\Library\DesignSystems\DesignReporting.Quality\obj\Debug\net8.0-windows\DesignReporting.Quality.AssemblyInfo.cs
+C:\Foundry\Library\DesignSystems\DesignReporting.Quality\obj\Debug\net8.0-windows\DesignReporting.Quality.csproj.CoreCompileInputs.cache

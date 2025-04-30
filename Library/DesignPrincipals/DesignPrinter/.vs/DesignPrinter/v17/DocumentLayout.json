@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrinter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\boxes\\designbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\points\\designpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\boxes\\designlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\designdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\documentmeasures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\boxes\\designboxbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\points\\idesignpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\points\\designpointsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A0606-A5E8-4052-9612-8D2436445B3E}|..\\PrintQuality\\PrintQuality.csproj|c:\\foundry\\library\\designprincipals\\printquality\\shapes\\boxes\\designboxtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\points\\designpointbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\points\\designpointmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\points\\idesignpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\points\\floatingdesignpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A0606-A5E8-4052-9612-8D2436445B3E}|..\\PrintQuality\\PrintQuality.csproj|c:\\foundry\\library\\designprincipals\\printquality\\designcoordinatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A0606-A5E8-4052-9612-8D2436445B3E}|..\\PrintQuality\\PrintQuality.csproj|c:\\foundry\\library\\designprincipals\\printquality\\designdocumenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A0606-A5E8-4052-9612-8D2436445B3E}|..\\PrintQuality\\PrintQuality.csproj|c:\\foundry\\library\\designprincipals\\printquality\\designlinetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\lines\\designline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FF7050-FE3C-4E91-9DC3-6AB80B5D0196}|..\\..\\PrintingSystems\\PrintingSystems.csproj|c:\\foundry\\library\\printingsystems\\principals\\shapes\\points\\designcoordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44E600D-6347-4861-A9DA-CF2E2FC8F558}|DesignPrinter.csproj|c:\\foundry\\library\\designprincipals\\designprinter\\dowding\\request\\dowdingrequestchrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E600D-6347-4861-A9DA-CF2E2FC8F558}|DesignPrinter.csproj|solutionrelative:dowding\\request\\dowdingrequestchrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44E600D-6347-4861-A9DA-CF2E2FC8F558}|DesignPrinter.csproj|c:\\foundry\\library\\designprincipals\\designprinter\\dowding\\apexlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44E600D-6347-4861-A9DA-CF2E2FC8F558}|DesignPrinter.csproj|solutionrelative:dowding\\apexlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20837C81-64C0-45FE-B773-19CE44BDFC5C}|..\\PrintInspector\\PrintInspector.csproj|c:\\foundry\\library\\designprincipals\\printinspector\\principals\\designdocumentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20837C81-64C0-45FE-B773-19CE44BDFC5C}|..\\PrintInspector\\PrintInspector.csproj|c:\\foundry\\library\\designprincipals\\printinspector\\principals\\designdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20837C81-64C0-45FE-B773-19CE44BDFC5C}|..\\PrintInspector\\PrintInspector.csproj|c:\\foundry\\library\\designprincipals\\printinspector\\principals\\shapes\\idesignbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesignLayer.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignLayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignLayer.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignLayer.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignLayer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:32:11.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DesignBoxTests.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\PrintQuality\\Shapes\\Boxes\\DesignBoxTests.cs",
+              "RelativeDocumentMoniker": "..\\PrintQuality\\Shapes\\Boxes\\DesignBoxTests.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\PrintQuality\\Shapes\\Boxes\\DesignBoxTests.cs",
+              "RelativeToolTip": "..\\PrintQuality\\Shapes\\Boxes\\DesignBoxTests.cs",
+              "ViewState": "AgIAABQAAACAZmZmZqYnwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:32:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesignPoint.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPoint.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPoint.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPoint.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:08:21.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DesignPointsBuilder.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointsBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointsBuilder.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointsBuilder.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointsBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:22:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDesignPoint.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\IDesignPoint.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\IDesignPoint.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\IDesignPoint.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\IDesignPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:13:44.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DesignPointBuilder.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointBuilder.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointBuilder.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:11:28.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesignBox.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignBox.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignBox.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignBox.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignBox.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAYwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:40:15.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesignDocument.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\DesignDocument.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\DesignDocument.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\DesignDocument.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\DesignDocument.cs",
+              "ViewState": "AgIAAC4AAACAZmZmZiYvwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:02:45.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesignBoxBuilder.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignBoxBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignBoxBuilder.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignBoxBuilder.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Boxes\\DesignBoxBuilder.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:29:59.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentMeasures.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\DocumentMeasures.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\DocumentMeasures.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\DocumentMeasures.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\DocumentMeasures.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwFoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:37:20.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DesignPointMediator.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointMediator.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointMediator.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointMediator.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignPointMediator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:15:56.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDesignPoints.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\IDesignPoints.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\IDesignPoints.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\IDesignPoints.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\IDesignPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:58:48.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FloatingDesignPoint.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\FloatingDesignPoint.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\FloatingDesignPoint.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\FloatingDesignPoint.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\FloatingDesignPoint.cs",
+              "ViewState": "AgIAAAQAAADw/////38pwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:57:57.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DesignCoordinateTests.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\PrintQuality\\DesignCoordinateTests.cs",
+              "RelativeDocumentMoniker": "..\\PrintQuality\\DesignCoordinateTests.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\PrintQuality\\DesignCoordinateTests.cs",
+              "RelativeToolTip": "..\\PrintQuality\\DesignCoordinateTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:28:22.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DesignDocumentTest.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\PrintQuality\\DesignDocumentTest.cs",
+              "RelativeDocumentMoniker": "..\\PrintQuality\\DesignDocumentTest.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\PrintQuality\\DesignDocumentTest.cs",
+              "RelativeToolTip": "..\\PrintQuality\\DesignDocumentTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:58:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DesignLineTests.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\PrintQuality\\DesignLineTests.cs",
+              "RelativeDocumentMoniker": "..\\PrintQuality\\DesignLineTests.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\PrintQuality\\DesignLineTests.cs",
+              "RelativeToolTip": "..\\PrintQuality\\DesignLineTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:02:56.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DesignLine.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Lines\\DesignLine.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Lines\\DesignLine.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Lines\\DesignLine.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Lines\\DesignLine.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:01:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DesignCoordinate.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignCoordinate.cs",
+              "RelativeDocumentMoniker": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignCoordinate.cs",
+              "ToolTip": "C:\\Foundry\\Library\\PrintingSystems\\Principals\\Shapes\\Points\\DesignCoordinate.cs",
+              "RelativeToolTip": "..\\..\\PrintingSystems\\Principals\\Shapes\\Points\\DesignCoordinate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:30:56.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DowdingRequestChrome.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrinter\\Dowding\\Request\\DowdingRequestChrome.cs",
+              "RelativeDocumentMoniker": "Dowding\\Request\\DowdingRequestChrome.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrinter\\Dowding\\Request\\DowdingRequestChrome.cs",
+              "RelativeToolTip": "Dowding\\Request\\DowdingRequestChrome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:00:19.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApexListener.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrinter\\Dowding\\ApexListener.cs",
+              "RelativeDocumentMoniker": "Dowding\\ApexListener.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\DesignPrinter\\Dowding\\ApexListener.cs",
+              "RelativeToolTip": "Dowding\\ApexListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:00:55.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DesignDocumentBuilder.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\PrintInspector\\Principals\\DesignDocumentBuilder.cs",
+              "RelativeDocumentMoniker": "..\\PrintInspector\\Principals\\DesignDocumentBuilder.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\PrintInspector\\Principals\\DesignDocumentBuilder.cs",
+              "RelativeToolTip": "..\\PrintInspector\\Principals\\DesignDocumentBuilder.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswFMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:58:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DesignDocument.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\PrintInspector\\Principals\\DesignDocument.cs",
+              "RelativeDocumentMoniker": "..\\PrintInspector\\Principals\\DesignDocument.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\PrintInspector\\Principals\\DesignDocument.cs",
+              "RelativeToolTip": "..\\PrintInspector\\Principals\\DesignDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:08:44.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDesignBox.cs",
+              "DocumentMoniker": "C:\\Foundry\\Library\\DesignPrincipals\\PrintInspector\\Principals\\Shapes\\IDesignBox.cs",
+              "RelativeDocumentMoniker": "..\\PrintInspector\\Principals\\Shapes\\IDesignBox.cs",
+              "ToolTip": "C:\\Foundry\\Library\\DesignPrincipals\\PrintInspector\\Principals\\Shapes\\IDesignBox.cs",
+              "RelativeToolTip": "..\\PrintInspector\\Principals\\Shapes\\IDesignBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:57:17.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

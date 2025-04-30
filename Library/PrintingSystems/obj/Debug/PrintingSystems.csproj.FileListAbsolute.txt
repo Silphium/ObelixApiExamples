@@ -1,0 +1,6 @@
+C:\Foundry\Library\PrintingSystems\bin\Debug\PrintingSystems.dll
+C:\Foundry\Library\PrintingSystems\bin\Debug\PrintingSystems.pdb
+C:\Foundry\Library\PrintingSystems\obj\Debug\PrintingSystems.csproj.AssemblyReference.cache
+C:\Foundry\Library\PrintingSystems\obj\Debug\PrintingSystems.csproj.CoreCompileInputs.cache
+C:\Foundry\Library\PrintingSystems\obj\Debug\PrintingSystems.dll
+C:\Foundry\Library\PrintingSystems\obj\Debug\PrintingSystems.pdb

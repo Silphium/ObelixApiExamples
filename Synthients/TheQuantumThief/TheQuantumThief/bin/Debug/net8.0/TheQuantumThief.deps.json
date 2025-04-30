@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TheQuantumThief/1.0.0": {
+        "dependencies": {
+          "DesignReporting": "1.0.0",
+          "DowdingNetwork": "1.0.0",
+          "FluentSilk": "1.0.0"
+        },
+        "runtime": {
+          "TheQuantumThief.dll": {}
+        }
+      },
+      "DesignReporting/1.0.0": {
+        "runtime": {
+          "DesignReporting.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DowdingNetwork/1.0.0": {
+        "dependencies": {
+          "DesignReporting": "1.0.0"
+        },
+        "runtime": {
+          "DowdingNetwork.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FluentSilk/1.0.0": {
+        "runtime": {
+          "FluentSilk.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheQuantumThief/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignReporting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DowdingNetwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentSilk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

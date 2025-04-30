@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=006091ff_002D6805_002D4813_002Da8a8_002D4032ffebf65e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldGenerateFullReport" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::467A0606-A5E8-4052-9612-8D2436445B3E::.NETFramework,Version=v4.8::PrintQuality.TenRealmsExtractionTests.ShouldLoadScreenShot&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::467A0606-A5E8-4052-9612-8D2436445B3E::.NETFramework,Version=v4.8::PrintQuality.PrincipalDesignTest.ShouldCreateDesignDocument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::467A0606-A5E8-4052-9612-8D2436445B3E::.NETFramework,Version=v4.8::PrintQuality.DesignLineTests.ShouldCreateLine&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=68b74770_002D3315_002D420b_002D99aa_002D2666e519e215/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldCreateLine" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::467A0606-A5E8-4052-9612-8D2436445B3E::.NETFramework,Version=v4.8::PrintQuality.DesignLineTests.ShouldCreateLine&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ea45f54e_002Df6e8_002D472f_002D880e_002D0b2db99a2a83/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldCreateLine (0,0,10,10,10,10)" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::467A0606-A5E8-4052-9612-8D2436445B3E::.NETFramework,Version=v4.8::PrintQuality.DesignLineTests.ShouldCreateLine&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::467A0606-A5E8-4052-9612-8D2436445B3E::.NETFramework,Version=v4.8::PrintQuality.DesignCoordinateTests.ShouldCreateIntegerCoordinates&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::467A0606-A5E8-4052-9612-8D2436445B3E::.NETFramework,Version=v4.8::PrintQuality.DesignDocumentTest.ShouldCreateDesignDocument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::467A0606-A5E8-4052-9612-8D2436445B3E::.NETFramework,Version=v4.8::PrintQuality.Shapes.Boxes.DesignBoxTests.ShouldCreateDesignBox&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::467A0606-A5E8-4052-9612-8D2436445B3E::.NETFramework,Version=v4.8::PrintQuality.Shapes.Boxes.DesignBoxTests.ShouldCreateDesignBoxFromCorners&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

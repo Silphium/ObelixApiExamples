@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=99a23ff9_002D1872_002D41ab_002Dbd57_002D3a388f86ca4e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldCreateEmptyStructure #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36449B27-6B06-4ACE-B6F5-727A49571F8C::net8.0::QualitySilk.SpiderFrameTests.ShouldCreateEmptyStructure&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::36449B27-6B06-4ACE-B6F5-727A49571F8C::net8.0::QualitySilk.SpiderFrameTests.ShouldCreateBasicRadial&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::36449B27-6B06-4ACE-B6F5-727A49571F8C::net8.0::QualitySilk.CSS.DesignSetLoading.ShowLoadCSSFile&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b88c18de_002D6e72_002D4653_002Daea4_002D442094150454/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldCreateEmptyStructure" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36449B27-6B06-4ACE-B6F5-727A49571F8C::net8.0::QualitySilk.SpiderFrameTests.ShouldCreateEmptyStructure&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b8a48bcb_002D4b92_002D4dbc_002D800a_002D508bd28935d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldCreateBasicRadial #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36449B27-6B06-4ACE-B6F5-727A49571F8C::net8.0::QualitySilk.SpiderFrameTests.ShouldCreateBasicRadial&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bad3d9cf_002D32a2_002D49aa_002D9659_002D74a02c47ffb2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldCreateBasicRadial" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36449B27-6B06-4ACE-B6F5-727A49571F8C::net8.0::QualitySilk.SpiderFrameTests.ShouldCreateBasicRadial&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

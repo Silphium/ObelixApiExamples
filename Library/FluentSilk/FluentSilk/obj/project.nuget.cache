@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fivsv8rZRqY=",
+  "success": true,
+  "projectFilePath": "C:\\Foundry\\Library\\FluentSilk\\FluentSilk\\FluentSilk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kdoug\\.nuget\\packages\\htmlagilitypack\\1.11.74\\htmlagilitypack.1.11.74.nupkg.sha512"
+  ],
+  "logs": []
+}

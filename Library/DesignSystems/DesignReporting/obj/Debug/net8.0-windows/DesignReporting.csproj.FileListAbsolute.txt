@@ -1,0 +1,11 @@
+C:\Foundry\Library\DesignSystems\DesignReporting\bin\Debug\net8.0-windows\DesignReporting.deps.json
+C:\Foundry\Library\DesignSystems\DesignReporting\bin\Debug\net8.0-windows\DesignReporting.dll
+C:\Foundry\Library\DesignSystems\DesignReporting\bin\Debug\net8.0-windows\DesignReporting.pdb
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\Debug\net8.0-windows\DesignReporting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\Debug\net8.0-windows\DesignReporting.AssemblyInfoInputs.cache
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\Debug\net8.0-windows\DesignReporting.AssemblyInfo.cs
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\Debug\net8.0-windows\DesignReporting.csproj.CoreCompileInputs.cache
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\Debug\net8.0-windows\DesignReporting.dll
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\Debug\net8.0-windows\refint\DesignReporting.dll
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\Debug\net8.0-windows\DesignReporting.pdb
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\Debug\net8.0-windows\ref\DesignReporting.dll

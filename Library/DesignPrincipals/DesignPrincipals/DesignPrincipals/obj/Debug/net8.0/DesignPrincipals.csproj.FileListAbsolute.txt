@@ -1,0 +1,11 @@
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\bin\Debug\net8.0\DesignPrincipals.deps.json
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\bin\Debug\net8.0\DesignPrincipals.dll
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\bin\Debug\net8.0\DesignPrincipals.pdb
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\obj\Debug\net8.0\DesignPrincipals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\obj\Debug\net8.0\DesignPrincipals.AssemblyInfoInputs.cache
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\obj\Debug\net8.0\DesignPrincipals.AssemblyInfo.cs
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\obj\Debug\net8.0\DesignPrincipals.csproj.CoreCompileInputs.cache
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\obj\Debug\net8.0\DesignPrincipals.dll
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\obj\Debug\net8.0\refint\DesignPrincipals.dll
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\obj\Debug\net8.0\DesignPrincipals.pdb
+C:\Foundry\Library\DesignPrincipals\DesignPrincipals\DesignPrincipals\obj\Debug\net8.0\ref\DesignPrincipals.dll

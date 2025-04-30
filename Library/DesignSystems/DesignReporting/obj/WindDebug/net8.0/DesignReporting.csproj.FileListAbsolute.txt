@@ -1,0 +1,11 @@
+C:\Foundry\Library\DesignSystems\DesignReporting\bin\WindDebug\net8.0\DesignReporting.deps.json
+C:\Foundry\Library\DesignSystems\DesignReporting\bin\WindDebug\net8.0\DesignReporting.dll
+C:\Foundry\Library\DesignSystems\DesignReporting\bin\WindDebug\net8.0\DesignReporting.pdb
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\WindDebug\net8.0\DesignReporting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\WindDebug\net8.0\DesignReporting.AssemblyInfoInputs.cache
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\WindDebug\net8.0\DesignReporting.AssemblyInfo.cs
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\WindDebug\net8.0\DesignReporting.csproj.CoreCompileInputs.cache
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\WindDebug\net8.0\DesignReporting.dll
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\WindDebug\net8.0\refint\DesignReporting.dll
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\WindDebug\net8.0\DesignReporting.pdb
+C:\Foundry\Library\DesignSystems\DesignReporting\obj\WindDebug\net8.0\ref\DesignReporting.dll

@@ -1,0 +1,15 @@
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\bin\Debug\net8.0\DowdingNetwork.deps.json
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\bin\Debug\net8.0\DowdingNetwork.dll
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\bin\Debug\net8.0\DowdingNetwork.pdb
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\bin\Debug\net8.0\DesignReporting.dll
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\bin\Debug\net8.0\DesignReporting.pdb
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\DowdingNetwork.csproj.AssemblyReference.cache
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\DowdingNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\DowdingNetwork.AssemblyInfoInputs.cache
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\DowdingNetwork.AssemblyInfo.cs
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\DowdingNetwork.csproj.CoreCompileInputs.cache
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\DowdingN.8CA2E5C5.Up2Date
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\DowdingNetwork.dll
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\refint\DowdingNetwork.dll
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\DowdingNetwork.pdb
+C:\Foundry\Library\DowdingNetwork\DowdingNetwork\obj\Debug\net8.0\ref\DowdingNetwork.dll
